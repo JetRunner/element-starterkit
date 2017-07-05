@@ -6,15 +6,15 @@
 
  - Modify `.gitignore`  
  - Add `axios` to `package.json`  
- - Add `vue-router``vuex` and their config  
- - Upgrade `Element-UI``vue``vue-loader`  
+ - Add `vue-router` `vuex` and their config  
+ - Upgrade `Element-UI` `vue` `vue-loader`  
  - Add support for `less`  
- - Upgrade `Webpack` to `^2.6.1` (the last version of `2.X`)
+ - Upgrade `webpack` to `^2.6.1` (the last version of `2.X`)
 
 ## Environment
 
- `Node >= 6`  
- `yarn` is recommended to replace `npm`  
+ - `Node >= 6`  
+ - `yarn` is recommended to replace `npm`  
 
 ## Start
 
