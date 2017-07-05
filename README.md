@@ -9,6 +9,7 @@
  - Add `vue-router``vuex` and their config  
  - Upgrade `Element-UI``vue``vue-loader`  
  - Add support for `less`  
+ - Upgrade `Webpack` to `^2.6.1` (the last version of `2.X`)
 
 ## Environment
 
